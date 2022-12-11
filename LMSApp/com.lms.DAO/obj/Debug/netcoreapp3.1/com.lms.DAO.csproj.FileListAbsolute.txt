@@ -8,3 +8,13 @@ D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.l
 D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.csproj.CoreCompileInputs.cache
 D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.dll
 D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.pdb
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\bin\Debug\netcoreapp3.1\com.lms.DAO.deps.json
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\bin\Debug\netcoreapp3.1\com.lms.DAO.dll
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\bin\Debug\netcoreapp3.1\com.lms.DAO.pdb
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.AssemblyInfo.cs
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.dll
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.pdb

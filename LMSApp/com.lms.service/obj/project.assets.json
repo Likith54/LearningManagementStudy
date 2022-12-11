@@ -4977,25 +4977,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cogdotnet1496\\.nuget\\packages\\": {},
+    "C:\\Users\\cogdotnet1820\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Shubham Workspace\\LMSProject\\LMSApp\\com.lms.service\\com.lms.service.csproj",
+      "projectUniqueName": "C:\\Users\\cogdotnet1820\\Source\\Repos\\LearningManagementStudy\\LMSApp\\com.lms.service\\com.lms.service.csproj",
       "projectName": "com.lms.service",
-      "projectPath": "D:\\Shubham Workspace\\LMSProject\\LMSApp\\com.lms.service\\com.lms.service.csproj",
-      "packagesPath": "C:\\Users\\cogdotnet1496\\.nuget\\packages\\",
-      "outputPath": "D:\\Shubham Workspace\\LMSProject\\LMSApp\\com.lms.service\\obj\\",
+      "projectPath": "C:\\Users\\cogdotnet1820\\Source\\Repos\\LearningManagementStudy\\LMSApp\\com.lms.service\\com.lms.service.csproj",
+      "packagesPath": "C:\\Users\\cogdotnet1820\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cogdotnet1820\\Source\\Repos\\LearningManagementStudy\\LMSApp\\com.lms.service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\cogdotnet1496\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cogdotnet1820\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -5011,8 +5011,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Shubham Workspace\\LMSProject\\LMSApp\\com.lms.DAO\\com.lms.DAO.csproj": {
-              "projectPath": "D:\\Shubham Workspace\\LMSProject\\LMSApp\\com.lms.DAO\\com.lms.DAO.csproj"
+            "C:\\Users\\cogdotnet1820\\Source\\Repos\\LearningManagementStudy\\LMSApp\\com.lms.DAO\\com.lms.DAO.csproj": {
+              "projectPath": "C:\\Users\\cogdotnet1820\\Source\\Repos\\LearningManagementStudy\\LMSApp\\com.lms.DAO\\com.lms.DAO.csproj"
             }
           }
         }

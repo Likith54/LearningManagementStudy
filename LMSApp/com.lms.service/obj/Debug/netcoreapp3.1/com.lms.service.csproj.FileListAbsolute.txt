@@ -10,3 +10,16 @@ D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\c
 D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.pdb
 D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.DAO.dll
 D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.DAO.pdb
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.service.deps.json
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.service.dll
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.service.pdb
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.DAO.dll
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.DAO.pdb
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.AssemblyInfo.cs
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.csproj.CopyComplete
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.dll
+C:\Users\cogdotnet1820\Source\Repos\LearningManagementStudy\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.pdb
