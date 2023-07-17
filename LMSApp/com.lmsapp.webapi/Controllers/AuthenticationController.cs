@@ -30,8 +30,13 @@ namespace com.lmsapp.webapi.Controllers
         /// </summary>
         [HttpPost("/api/v{version:apiVersion}/lms/user/login")]
         [MapToApiVersion("1.0")]
-        public async Task<ActionResult> Login([FromBody] GetTokenModel user)
+        public async Task<ActionResult> Login(string username, string password)
         {
+            GetTokenModel user = new GetTokenModel()
+            {
+                UserId = username,
+                Password = password,
+            };
             var response = await this._mediator.Send(user);
             return response.HttpResponseQueryResult;
         }
